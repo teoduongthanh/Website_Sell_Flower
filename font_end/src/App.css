@@ -1,0 +1,9 @@
+.product-home{
+    --bs-gutter-x: 180px !important;
+}
+.productios-items{
+    margin-top: 20px;
+}
+.product-home.grid_3 .single-product {
+    margin-bottom: 30px;
+  }
